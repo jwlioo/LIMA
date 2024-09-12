@@ -1,0 +1,51 @@
+body{
+    background-color: rgb(26, 33, 41);
+}
+
+img{
+    
+        width: 40%;
+        height: 30%;
+        margin-left: 30%;
+        margin-right: auto;
+        opacity: 85%;
+        border: 2px solid; 
+        border-color: blue;
+    }
+
+      
+
+
+h1{
+    text-align: center;
+    color:rgb(175, 35, 35);
+
+}
+
+h2{
+    color:rgb(8, 75, 169);
+}
+
+p{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color:antiquewhite;
+}
+img:hover{
+    opacity: 60%;
+    filter: sepia();
+}
+#panda{
+    
+    zoom: 1.2;
+}
+
+    #panda{
+    
+        zoom: 1.2;
+
+}
+
+ #panda :hover{
+    zoom: 1.20
+
+        }
